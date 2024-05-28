@@ -1,4 +1,4 @@
-![image](https://github.com/kislayykumar/kislayykumar/assets/135631873/921d7749-a70d-4c63-b597-4b58a981a964)# Hey there, I'm Kislay Kumar 👋
+# Hey there, I'm Kislay Kumar 👋
 
 ![](https://komarev.com/ghpvc/?username=kislayykumar)
 
@@ -19,7 +19,7 @@ I'm a code artist on a mission to turn coffee into code and ideas into reality! 
 ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
 ![CSS](https://img.icons8.com/color/48/000000/css3.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-![Tailwind CSS](https://img.icons8.com/?size=100&id=WoopfRcDj3RF&format=png&color=000000)  
+![Tailwind CSS](https://img.icons8.com/?size=100&id=x7XMNGh2vdqA&format=png&color=000000)  
 ![React](https://img.icons8.com/color/48/000000/react-native.png)
 
 ## 🛠️ GitHub Stats
