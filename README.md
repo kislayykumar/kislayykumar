@@ -1,7 +1,7 @@
 # Hey there, I'm Kislay Kumar 👋
 
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGgyd3RiMjdmaGxxYWc5dXJzaWVheWJkY2Zib3c1eTl5MmFtbWpucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="MasterHead">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGgyd3RiMjdmaGxxYWc5dXJzaWVheWJkY2Zib3c1eTl5MmFtbWpucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="MasterHead" width="200">
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kislayykumar)
@@ -10,7 +10,7 @@
 
 Explore more about me on my personal website:
 
-[![Personal Website](https://yourwebsite.com/logo.png)](https://yourwebsite.com)
+[![Personal Website](https://img.icons8.com/color/48/000000/domain--v1.png)](https://yourwebsite.com)
 
 ## 🚀 About Me
 
