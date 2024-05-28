@@ -1,6 +1,6 @@
 # Hey there, I'm Kislay Kumar 👋
 
-![](https://komarev.com/ghpvc/?username=kislayykumar)
+![Profile Views](https://komarev.com/ghpvc/?username=kislayykumar)
 
 ## 🚀 About Me
 
@@ -37,10 +37,6 @@ Let's connect and geek out together:
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="48">](https://twitter.com/yourprofile/)
 [<img src="https://img.icons8.com/color/48/000000/github--v1.png" width="48">](https://github.com/yourusername/)
 
-![Profile Views](https://img.icons8.com/fluent/48/000000/visible.png) <span style="font-size: 20px;">Profile Views</span>
-
-
-
 ## 📝 Blog
 
 I share my insights and experiences on my blog:
@@ -53,6 +49,3 @@ I share my insights and experiences on my blog:
 If you appreciate my work, consider buying me a coffee:
 
 [![Buy Me a Coffee](https://img.shields.io/badge/-Buy_Me_a_Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourprofile)
-
-
-
