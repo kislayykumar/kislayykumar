@@ -6,7 +6,7 @@
 
 I'm a code artist on a mission to turn coffee into code and ideas into reality! I thrive on challenges and enjoy crafting elegant solutions to complex problems. Passionate about software development, I'm always exploring new technologies and pushing the boundaries of what's possible.
 
-![Coding Image]([https://images.unsplash.com/photo-1556229175-1e0d58224f24?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80](https://giphy.com/embed/bGgsc5mWoryfgKBx1u))
+<iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
 
 
 - 🔭 I’m currently working on **[Your Project Name/Link]**
