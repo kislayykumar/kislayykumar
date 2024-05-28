@@ -1,4 +1,4 @@
-# Hey there, I'm [Your Name] 👋
+# Hey there, I'm Kislay Kumar 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue)
 
@@ -7,19 +7,19 @@
 I'm a code artist on a mission to turn coffee into code and ideas into reality! I thrive on challenges and enjoy crafting elegant solutions to complex problems. Passionate about software development, I'm always exploring new technologies and pushing the boundaries of what's possible.
 
 - 🔭 I’m currently working on **[Your Project Name/Link]**
-- 🌱 I’m currently learning **[Technology/Language]**
+- 🌱 I’m currently learning **React.js, Node.js, MongoDB**
 - 💡 Fun fact: **Coding is my superpower, but I'm also a master at Sudoku!**
 
 ## 💻 Tech Stack
 
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![C](https://img.icons8.com/color/48/000000/c-programming.png)
+![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+![Python](https://img.icons8.com/color/48/000000/python.png)
+![HTML](https://img.icons8.com/color/48/000000/html-5.png)
+![CSS](https://img.icons8.com/color/48/000000/css3.png)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png)
 
 ## 🛠️ GitHub Stats
 
