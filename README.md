@@ -1,6 +1,6 @@
-# Hey there, I'm Kislay Kumar 👋
+![image](https://github.com/kislayykumar/kislayykumar/assets/135631873/921d7749-a70d-4c63-b597-4b58a981a964)# Hey there, I'm Kislay Kumar 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue)
+![](https://komarev.com/ghpvc/?username=kislayykumar)
 
 ## 🚀 About Me
 
@@ -19,7 +19,7 @@ I'm a code artist on a mission to turn coffee into code and ideas into reality! 
 ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
 ![CSS](https://img.icons8.com/color/48/000000/css3.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png)
+![Tailwind CSS](https://img.icons8.com/?size=100&id=WoopfRcDj3RF&format=png&color=000000)  
 ![React](https://img.icons8.com/color/48/000000/react-native.png)
 
 ## 🛠️ GitHub Stats
@@ -57,4 +57,4 @@ If you appreciate my work, consider buying me a coffee:
 [![Buy Me a Coffee](https://img.shields.io/badge/-Buy_Me_a_Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourprofile)
 
 
-![](https://komarev.com/ghpvc/?username=kislayykumar)
+
