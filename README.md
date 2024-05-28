@@ -1,12 +1,20 @@
 # Hey there, I'm Kislay Kumar 👋
 
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGgyd3RiMjdmaGxxYWc5dXJzaWVheWJkY2Zib3c1eTl5MmFtbWpucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="MasterHead">
+</div>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=kislayykumar)
+
+## 🌟 Visit My Personal Website
+
+Explore more about me on my personal website:
+
+[![Personal Website](https://yourwebsite.com/logo.png)](https://yourwebsite.com)
 
 ## 🚀 About Me
 
 I'm a code artist on a mission to turn coffee into code and ideas into reality! I thrive on challenges and enjoy crafting elegant solutions to complex problems. Passionate about software development, I'm always exploring new technologies and pushing the boundaries of what's possible.
-
-[![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGgyd3RiMjdmaGxxYWc5dXJzaWVheWJkY2Zib3c1eTl5MmFtbWpucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)]
 
 - 🔭 I’m currently working on **[Your Project Name/Link]**
 - 🌱 I’m currently learning **React.js, Node.js, MongoDB**
@@ -58,9 +66,3 @@ Connect with me on coding platforms:
 
 [<img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" width="48">](https://leetcode.com/yourprofile/)
 [<img src="https://img.icons8.com/?size=100&id=AbQBhN9v62Ob&format=png&color=000000" width="48">](https://www.geeksforgeeks.org/user/yourprofile/)
-
-## 🌟 Visit My Personal Website
-
-Explore more about me on my personal website:
-
-[![Personal Website](https://yourwebsite.com/logo.png)](https://yourwebsite.com)
