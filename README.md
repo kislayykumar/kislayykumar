@@ -10,7 +10,6 @@ I'm a code artist on a mission to turn coffee into code and ideas into reality! 
 - 🌱 I’m currently learning **React.js, Node.js, MongoDB**
 - 💡 Fun fact: **Coding is my superpower, but I'm also a master at Sudoku!**
 
-## 💻 Tech Stack
 
 ## 💻 Tech Stack
 
@@ -34,9 +33,10 @@ Check out some of my cool projects:
 
 Let's connect and geek out together:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="48">](https://www.linkedin.com/in/yourprofile/)
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="48">](https://twitter.com/yourprofile/)
+[<img src="https://img.icons8.com/color/48/000000/github--v1.png" width="48">](https://github.com/yourusername/)
+
 
 ## 📝 Blog
 
