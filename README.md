@@ -20,11 +20,12 @@ I'm a code artist on a mission to turn coffee into code and ideas into reality! 
 ![CSS](https://img.icons8.com/color/48/000000/css3.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png)
+![React](https://img.icons8.com/color/48/000000/react-native.png)
 
 ## 🛠️ GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kislayykumar&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kislayykumar&layout=compact&hide_border=true)
 
 ## 🔨 Projects
 
