@@ -12,15 +12,15 @@ I'm a code artist on a mission to turn coffee into code and ideas into reality! 
 
 ## 💻 Tech Stack
 
-![C](https://img.icons8.com/color/48/000000/c-programming.png)
-![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
-![Python](https://img.icons8.com/color/48/000000/python.png)
-![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
-![CSS3](https://img.icons8.com/color/48/000000/css3.png)
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png)
-![React](https://img.icons8.com/plasticine/100/000000/react.png)
+<img src="https://img.icons8.com/color/48/000000/c-programming.png" width="48">
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="48">
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="48">
+<img src="https://img.icons8.com/color/48/000000/python.png" width="48">
+<img src="https://img.icons8.com/color/48/000000/html-5.png" width="48">
+<img src="https://img.icons8.com/color/48/000000/css3.png" width="48">
+<img src="https://img.icons8.com/color/48/000000/javascript.png" width="48">
+<img src="https://img.icons8.com/color/48/000000/tailwindcss.png" width="48">
+<img src="https://img.icons8.com/plasticine/100/000000/react.png" width="48">
 
 ## 🛠️ GitHub Stats
 
