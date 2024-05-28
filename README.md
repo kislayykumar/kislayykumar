@@ -59,4 +59,5 @@ Connect with me on coding platforms:
 
 [<img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" width="48">](https://leetcode.com/yourprofile/)
 [<img src="https://img.icons8.com/?size=100&id=AbQBhN9v62Ob&format=png&color=000000" width="48">](https://www.geeksforgeeks.org/user/yourprofile/)
+[<img src="[https://img.icons8.com/?size=100&id=AbQBhN9v62Ob&format=png&color=000000](https://scontent.fmaa16-1.fna.fbcdn.net/v/t39.30808-6/296147592_2018745671662587_6096738208180601413_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=MksTVdhVKlQQ7kNvgF127hO&_nc_ht=scontent.fmaa16-1.fna&oh=00_AYDmS6e7kykBz9YPn23IJAwgXjwwKShH0nFiyknPxJkwag&oe=665C262B)" width="48">](https://www.geeksforgeeks.org/user/yourprofile/)
 
