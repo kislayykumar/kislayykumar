@@ -6,7 +6,8 @@
 
 I'm a code artist on a mission to turn coffee into code and ideas into reality! I thrive on challenges and enjoy crafting elegant solutions to complex problems. Passionate about software development, I'm always exploring new technologies and pushing the boundaries of what's possible.
 
-![Coding Image](https://images.unsplash.com/photo-1505682634904-acf7354ef07d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
+![Coding Image](https://images.unsplash.com/photo-1556229175-1e0d58224f24?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
+
 
 - 🔭 I’m currently working on **[Your Project Name/Link]**
 - 🌱 I’m currently learning **React.js, Node.js, MongoDB**
@@ -56,7 +57,6 @@ If you appreciate my work, consider buying me a coffee:
 
 Connect with me on coding platforms:
 
-[<img src="https://img.icons8.com/color/48/000000/leetcode.png" width="48">](https://leetcode.com/yourprofile/)
-[<img src="https://img.icons8.com/color/48/000000/geeksforgeeks.png" width="48">](https://www.geeksforgeeks.org/user/yourprofile/)
-[<img src="https://img.icons8.com/color/48/000000/ninja--v2.png" width="48">](https://www.codingninjas.com/courses)
-[<img src="https://img.icons8.com/color/48/000000/hackerrank.png" width="48">](https://www.hackerrank.com/yourprofile/)
+[<img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" width="48">](https://leetcode.com/yourprofile/)
+[<img src="https://img.icons8.com/?size=100&id=AbQBhN9v62Ob&format=png&color=000000" width="48">](https://www.geeksforgeeks.org/user/yourprofile/)
+
