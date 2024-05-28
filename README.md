@@ -37,6 +37,9 @@ Let's connect and geek out together:
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="48">](https://twitter.com/yourprofile/)
 [<img src="https://img.icons8.com/color/48/000000/github--v1.png" width="48">](https://github.com/yourusername/)
 
+![Profile Views](https://img.icons8.com/fluent/48/000000/visible.png) <span style="font-size: 20px;">Profile Views</span>
+
+
 
 ## 📝 Blog
 
