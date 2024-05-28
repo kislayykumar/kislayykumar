@@ -6,7 +6,7 @@
 
 I'm a code artist on a mission to turn coffee into code and ideas into reality! I thrive on challenges and enjoy crafting elegant solutions to complex problems. Passionate about software development, I'm always exploring new technologies and pushing the boundaries of what's possible.
 
-<img src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u">
+[![MasterHead](https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif)]
 
 
 - 🔭 I’m currently working on **[Your Project Name/Link]**
