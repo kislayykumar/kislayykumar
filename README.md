@@ -16,11 +16,11 @@ I'm a code artist on a mission to turn coffee into code and ideas into reality! 
 ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
 ![Python](https://img.icons8.com/color/48/000000/python.png)
-![HTML](https://img.icons8.com/color/48/000000/html-5.png)
-![CSS](https://img.icons8.com/color/48/000000/css3.png)
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
+![CSS3](https://img.icons8.com/color/48/000000/css3.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-![Tailwind CSS](https://img.icons8.com/?size=100&id=x7XMNGh2vdqA&format=png&color=000000)  
-![React](https://img.icons8.com/color/48/000000/react-native.png)
+![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png)
+![React](https://img.icons8.com/plasticine/100/000000/react.png)
 
 ## 🛠️ GitHub Stats
 
