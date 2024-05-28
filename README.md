@@ -6,7 +6,7 @@
 
 I'm a code artist on a mission to turn coffee into code and ideas into reality! I thrive on challenges and enjoy crafting elegant solutions to complex problems. Passionate about software development, I'm always exploring new technologies and pushing the boundaries of what's possible.
 
-[![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGgyd3RiMjdmaGxxYWc5dXJzaWVheWJkY2Zib3c1eTl5MmFtbWpucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)](https://yourwebsite.com)
+[![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGgyd3RiMjdmaGxxYWc5dXJzaWVheWJkY2Zib3c1eTl5MmFtbWpucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)]
 
 - 🔭 I’m currently working on **[Your Project Name/Link]**
 - 🌱 I’m currently learning **React.js, Node.js, MongoDB**
