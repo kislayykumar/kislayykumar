@@ -6,8 +6,7 @@
 
 I'm a code artist on a mission to turn coffee into code and ideas into reality! I thrive on challenges and enjoy crafting elegant solutions to complex problems. Passionate about software development, I'm always exploring new technologies and pushing the boundaries of what's possible.
 
-[![MasterHead]([https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGgyd3RiMjdmaGxxYWc5dXJzaWVheWJkY2Zib3c1eTl5MmFtbWpucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif))]
-
+[![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGgyd3RiMjdmaGxxYWc5dXJzaWVheWJkY2Zib3c1eTl5MmFtbWpucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)](https://yourwebsite.com)
 
 - 🔭 I’m currently working on **[Your Project Name/Link]**
 - 🌱 I’m currently learning **React.js, Node.js, MongoDB**
@@ -59,5 +58,9 @@ Connect with me on coding platforms:
 
 [<img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" width="48">](https://leetcode.com/yourprofile/)
 [<img src="https://img.icons8.com/?size=100&id=AbQBhN9v62Ob&format=png&color=000000" width="48">](https://www.geeksforgeeks.org/user/yourprofile/)
-[<img src="[https://img.icons8.com/?size=100&id=AbQBhN9v62Ob&format=png&color=000000](https://scontent.fmaa16-1.fna.fbcdn.net/v/t39.30808-6/296147592_2018745671662587_6096738208180601413_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=MksTVdhVKlQQ7kNvgF127hO&_nc_ht=scontent.fmaa16-1.fna&oh=00_AYDmS6e7kykBz9YPn23IJAwgXjwwKShH0nFiyknPxJkwag&oe=665C262B)" width="48">](https://www.geeksforgeeks.org/user/yourprofile/)
 
+## 🌟 Visit My Personal Website
+
+Explore more about me on my personal website:
+
+[![Personal Website](https://yourwebsite.com/logo.png)](https://yourwebsite.com)
