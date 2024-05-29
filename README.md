@@ -52,5 +52,5 @@ Let's connect and geek out together:
 
 Connect with me on coding platforms:
 
-[<img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" width="48">](https://leetcode.com/yourprofile/)
-[<img src="https://img.icons8.com/?size=100&id=AbQBhN9v62Ob&format=png&color=000000" width="48">](https://www.geeksforgeeks.org/user/yourprofile/)
+[<img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" width="48">](https://leetcode.com/u/kislay__kumar/)
+[<img src="https://img.icons8.com/?size=100&id=AbQBhN9v62Ob&format=png&color=000000" width="48">](https://www.geeksforgeeks.org/user/kislay_kumar/)
