@@ -30,7 +30,9 @@ I'm a dedicated and passionate Software Engineer with a love for coding and cont
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kislayykumar&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kislayykumar&layout=compact&hide_border=true)
+<div align="center">
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=kislayykumar&)
+</div>
 
 ## 🔨 Projects
 
