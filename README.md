@@ -44,7 +44,7 @@ Check out some of my cool projects:
 Let's connect and geek out together:
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="48">](https://www.linkedin.com/in/kislay-kumar-a49a1316b/)
-[<img src="https://img.icons8.com/?size=100&id=fJp7hepMryiw&format=png&color=000000" width="48" style="filter: invert(1);">](https://x.com/kislayy_kumar)
+[<img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" width="48" style="filter: invert(1);">](https://x.com/kislayy_kumar)
 [<img src="https://img.icons8.com/color/48/000000/github--v1.png" width="48">](https://github.com/kislayykumar)
 
 
