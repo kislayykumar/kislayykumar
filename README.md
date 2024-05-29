@@ -14,9 +14,9 @@ Explore more about me on my personal website:
 
 ## 🚀 About Me
 
-I'm a code artist on a mission to turn coffee into code and ideas into reality! I thrive on challenges and enjoy crafting elegant solutions to complex problems. Passionate about software development, I'm always exploring new technologies and pushing the boundaries of what's possible.
+I'm a dedicated and passionate Software Engineer with a love for coding and continuous learning. My journey in software development is fueled by curiosity and a desire to explore, build, and innovate across various projects and technologies. Proficient in C++, JavaScript, HTML, CSS, Tailwind CSS, and React, I thrive on tackling challenging problems and contributing to open-source communities.
 
-- 🔭 I’m currently working on **[Your Project Name/Link]**
+- 🔭 I’m currently working on **Website for Shop management**
 - 🌱 I’m currently learning **React.js, Node.js, MongoDB**
 - 💡 Fun fact: **Coding is my superpower, but I'm also a master at Sudoku!**
 
@@ -35,30 +35,18 @@ I'm a code artist on a mission to turn coffee into code and ideas into reality! 
 
 Check out some of my cool projects:
 
-1. [Project Name](https://github.com/yourusername/projectname) - Brief description of what the project does.
-2. [Project Name](https://github.com/yourusername/projectname) - Brief description of what the project does.
-3. [Project Name](https://github.com/yourusername/projectname) - Brief description of what the project does.
+1. [Phishing Website detection](https://github.com/kislayykumar/PHISHING-WEBSITE-DETECTION-AND-CLASSIFICATION-USING-DATA-MINING) - The project involves developing the model with the best fit that solves the problem of classifying the website given its features such as Has_ URL. Has_ Anchor, URL_ age, web traffic, age of domain, etc.., From this given information the model that is to be chosen should be able to classify a website from the user input as a Phishing, Non-Phishing or Suspicious website. .
+2. [Forecasting Covid 19 using ARIMA Model](https://github.com/kislayykumar/FORECASTING-COVID-19-USING-ARIMA-MODEL) - Understanding the covid-19 virus's natural progression is crucial for making precise and effective forecasts. New understandings regarding the validity of the designed and validated prediction models are revealed as the COVID-19 pandemic develops and more data is gathered; nonetheless, projecting the pandemic's future requires open reporting and multiple model evaluations.
+3. [Netflix Clone](https://github.com/kislayykumar/Netflix-clone) - The project's goal is to imitate the Netflix home page's visual style and structure, serving as a model for developing interfaces like to it or learning web development methods.
 
 ## 🌐 Connect with Me
 
 Let's connect and geek out together:
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="48">](https://www.linkedin.com/in/yourprofile/)
-[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="48">](https://twitter.com/yourprofile/)
-[<img src="https://img.icons8.com/color/48/000000/github--v1.png" width="48">](https://github.com/yourusername/)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="48">](https://www.linkedin.com/in/kislay-kumar-a49a1316b/)
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="48">](https://x.com/kislayy_kumar)
+[<img src="https://img.icons8.com/color/48/000000/github--v1.png" width="48">](https://github.com/kislayykumar)
 
-## 📝 Blog
-
-I share my insights and experiences on my blog:
-
-- [Blog Post Title](https://yourblog.com/post-title) - A brief description of the blog post.
-- [Blog Post Title](https://yourblog.com/post-title) - A brief description of the blog post.
-
-## ☕️ Support
-
-If you appreciate my work, consider buying me a coffee:
-
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy_Me_a_Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourprofile)
 
 ## 💼 Coding Profiles
 
