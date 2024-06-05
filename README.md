@@ -23,7 +23,8 @@ I'm a dedicated and passionate Software Engineer with a love for coding and cont
 
 ## 💻 Tech Stack
 
-<img src="https://img.icons8.com/color/48/000000/c-programming.png" width="48"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="48"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="48"> <img src="https://img.icons8.com/color/48/000000/python.png" width="48"> <img src="https://img.icons8.com/color/48/000000/html-5.png" width="48"> <img src="https://img.icons8.com/color/48/000000/css3.png" width="48"> <img src="https://img.icons8.com/color/48/000000/javascript.png" width="48"> <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" width="48"> <img src="https://img.icons8.com/plasticine/100/000000/react.png" width="48">
+<img src="https://img.icons8.com/color/48/000000/c-programming.png" width="48"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="48"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="48"> <img src="https://img.icons8.com/color/48/000000/python.png" width="48"> <img src="https://img.icons8.com/color/48/000000/html-5.png" width="48"> <img src="https://img.icons8.com/color/48/000000/css3.png" width="48"> <img src="https://img.icons8.com/color/48/000000/javascript.png" width="48"> <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" width="48"> <img src="https://img.icons8.com/plasticine/100/000000/react.png" width="48"> <img src="https://img.icons8.com/?size=100&id=ouWtcsgDBiwO&format=png&color=000000" width="48"> <img src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000" width="48">  
+
 
 
 ## 🛠️ GitHub Stats
