@@ -58,21 +58,26 @@ const kislay = {
 };
 ```
 
-## `02` — Engineering Impact
+## `02` — Engineering Philosophy
 
-I believe good engineering should be measurable.
+<div align="center">
 
-Here are some improvements I've contributed to while working on enterprise applications:
+### I don't just write code. I enjoy understanding how things work.
 
-| Engineering Contribution | Impact |
-|:---|:---:|
-| SAPUI5 rendering & reusable component optimization | **~25% faster page load** |
-| API payload optimization | **~20% throughput improvement** |
-| CDS / SQL query optimization | **~30% lower DB latency** |
-| WebDriverIO regression automation | **~40% less manual effort** |
-| HANA analysis screen optimization | **~20s → <4s** |
+</div>
 
-*These figures represent improvements from specific engineering initiatives, not universal system-wide benchmarks.*
+For me, engineering is about curiosity, problem-solving, and continuous improvement.
+
+- 🧠 **Problem Solving:** Breaking complex problems into simpler, manageable pieces.
+- ⚙️ **Clean Engineering:** Writing maintainable, reusable, and efficient code.
+- 🚀 **Building & Experimenting:** Turning ideas into functional projects and exploring new technologies.
+- 📚 **Continuous Learning:** Exploring system design, distributed systems, AI, and modern development practices.
+
+<div align="center">
+
+**"Don't just make it work. Understand it, improve it, and make it better."**
+
+</div>
 
 ## `03` — My Technology Universe
 
